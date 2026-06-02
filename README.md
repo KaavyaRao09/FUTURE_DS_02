@@ -2,7 +2,7 @@
 
 This Repository is the submission for **Task 2** for my **Data Science Internship at Future Interns**
 
-# Customer Churn Analysis & Retention Insights
+# Customer Retention & Churn Analysis
 
 ## Overview
 
