@@ -1,4 +1,7 @@
 # FUTURE_DS_02
+## Dashboard Preview
+
+![Dashboard Screenshot](Dashboard.png)
 
 This Repository is the submission for **Task 2** for my **Data Science Internship at Future Interns**
 
